@@ -6,10 +6,10 @@ body {
 
 h1 {
 	color: #FAFAFA;
-	transition: color 0.5s;
+	transition: color 0.25s;
 }
 
 h1:hover {
 	color: #2196F3;
-	transition: color 0.5s;
+	transition: color 0.25s;
 }
