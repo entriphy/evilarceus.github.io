@@ -1,0 +1,15 @@
+/* CSS Document */
+
+body {
+	background: #212121;
+}
+
+h1 {
+	color: #FAFAFA;
+	transition: color 0.5s;
+}
+
+h1:hover {
+	color: #2196F3;
+	transition: color 0.5s;
+}
