@@ -7,9 +7,29 @@ body {
 h1 {
 	color: #FAFAFA;
 	transition: color 0.25s;
+	margin-bottom: 100px;
 }
 
 h1:hover {
 	color: #2196F3;
 	transition: color 0.25s;
+}
+
+.lineage {
+	background-color:#167B80;
+}
+
+.linus {
+	background-color:#C73A03
+}
+
+.lineageos {
+	margin-left: 50%;
+	display: block;
+    margin: auto;
+}
+
+.icon {
+	width: 25px;
+	height: 25px;
 }
